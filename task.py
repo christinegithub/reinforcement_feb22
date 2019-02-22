@@ -9,7 +9,7 @@ class Task:
         self.due_date = due_date
 
 
-task1 = Task("laundry", "Feb 22")
+task1 = Task("laundry", "Feb 21")
 print(task1.description)
 print(task1.due_date)
 

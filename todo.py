@@ -1,4 +1,4 @@
-# Create a TodoList class with a tasks list (which will contain instances
+# Create a ToDoList class with a tasks list (which will contain instances
 # of the Task class). Create an __init__ method and an add_task method that
 # allows you to pass in an instance of your Task class.
 # Try creating a todo list and adding your three tasks to it.
